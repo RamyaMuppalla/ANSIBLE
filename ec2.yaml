@@ -23,7 +23,7 @@
   vars:
     ansible_python_interpreter: /usr/bin/python3.10
     keypair: Assignment-Nvirginia
-    instance_type: t2.micro
+    instance_type: t2.medium
     image_id: ami-07b49bc5d4c6346b5
     wait: yes
     group: webserver
